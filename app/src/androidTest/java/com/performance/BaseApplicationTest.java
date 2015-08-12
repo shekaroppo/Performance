@@ -1,4 +1,4 @@
-package com.example.development.performance;
+package com.performance;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

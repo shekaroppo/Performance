@@ -1,4 +1,4 @@
-package com.example.development.performance.leakcanary;
+package com.leakcanary;
 
 import android.app.Activity;
 import android.os.AsyncTask;
@@ -6,7 +6,7 @@ import android.os.Bundle;
 import android.os.SystemClock;
 import android.view.View;
 
-import com.example.development.performance.R;
+import com.performance.R;
 import com.squareup.leakcanary.RefWatcher;
 
 public class MainActivity extends Activity {

@@ -1,4 +1,4 @@
-package com.example.development.performance.leakcanary;
+package com.leakcanary;
 
 import android.content.Context;
 import android.os.StrictMode;
