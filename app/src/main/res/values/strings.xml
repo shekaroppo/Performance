@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Performance</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="async_task">Start Async Task</string>
+    <string name="action_settings">Settings</string>
+</resources>
